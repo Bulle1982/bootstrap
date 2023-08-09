@@ -2,8 +2,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
@@ -165,11 +163,7 @@ body {
     border-color: #df4929;
     color: white;
 }
-.callout-container {}
 
-.quotes-container {}
-
-.features-container {}
 
 .feature {
     text-align: center;
